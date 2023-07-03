@@ -1,4 +1,4 @@
-# SQL_queries: 
+# Rockbuster Project SQL: 
 
 SQL analysis of a PostgreSQL database, with final presentation, undertaken as part of CareerFoundry Data Analystics course.  
 
