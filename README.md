@@ -1,4 +1,4 @@
-SQL_queries:
+#**SQL_queries:**
 
 SQL analysis of a PostgreSQL database undertaken as part of CareerFoundry Data Analystics course.  
 
