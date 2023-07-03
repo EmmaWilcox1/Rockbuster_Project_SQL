@@ -2,21 +2,21 @@
 
 SQL analysis of a PostgreSQL database undertaken as part of CareerFoundry Data Analystics course.  
 
-Objectives:
+#**Objectives:**
 
 "Rockbuster," a fictional movie rental company, needs insights to inform launch strategy for their new, online streaming service. Descriptive analysis covers the performance of their video library and their existent customer base.
 
-Data:
+#**Data:*
 
 Provided as part of course and loaded using PostgreSQL
 
-Fact Tables
+##**Fact Tables**
 
-Rental
+-Rental
 
-Dimension Tables
+##**Dimension Tables**
 
-Payment
+-Payment
 
 Film_actor
 
