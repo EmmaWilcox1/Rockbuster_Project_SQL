@@ -1,4 +1,4 @@
-Which movies contributed the most/least to revenue gain? 
+## Which movies contributed the most/least to revenue gain? 
 
 
 SELECT title, SUM(amount) AS total_amount_paid, rating
